@@ -605,7 +605,7 @@ export default function Home() {
             src="/1.png"
           />
           <p className="leading-relaxed">
-            Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
+            Edison bulb retro cloud bread echo park helvetica stumptown taiyaki
             taxide
           </p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4" />
@@ -623,7 +623,7 @@ export default function Home() {
             src="/1.png"
           />
           <p className="leading-relaxed">
-            Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
+            Edison bulb retro cloud bread echo park helvetica stumptown taiyaki
             
           </p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4" />
@@ -641,7 +641,7 @@ export default function Home() {
             src="/1.png"
           />
           <p className="leading-relaxed">
-            Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
+            Edison bulb retro cloud bread echo parf helvetica stumptown taiyaki
            
           </p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4" />
