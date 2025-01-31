@@ -90,9 +90,7 @@ export default function Home() {
       </h1>
       <p className="mb-8 leading-relaxed">
         Copper mug try-hard pitchfork pour-over freegan heirloom neutra air
-        plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk
-        tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard
-        chambray.
+        plant
       </p>
       <div className="flex justify-center">
         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
@@ -544,8 +542,7 @@ export default function Home() {
           </svg>
           <p className="leading-relaxed mb-6">
             Synth chartreuse iPhone lomo cray raw denim brunch everyday carry
-            neutra before they sold out fixie 90's microdosing. Tacos pinterest
-            fanny pack venmo, post-ironic heirloom try-hard pabst authentic
+            neutra before they sold out
             iceland.
           </p>
           <a className="inline-flex items-center">
@@ -575,9 +572,7 @@ export default function Home() {
           </svg>
           <p className="leading-relaxed mb-6">
             Synth chartreuse iPhone lomo cray raw denim brunch everyday carry
-            neutra before they sold out fixie 90's microdosing. Tacos pinterest
-            fanny pack venmo, post-ironic heirloom try-hard pabst authentic
-            iceland.
+            neutra before they sold out fixi
           </p>
           <a className="inline-flex items-center">
             <img
@@ -611,9 +606,7 @@ export default function Home() {
           />
           <p className="leading-relaxed">
             Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
-            taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman
-            taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid
-            fanny pack vaporware.
+            taxide
           </p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4" />
           <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
