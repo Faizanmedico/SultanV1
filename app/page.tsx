@@ -631,9 +631,7 @@ export default function Home() {
           />
           <p className="leading-relaxed">
             Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
-            taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman
-            taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid
-            fanny pack vaporware.
+            
           </p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4" />
           <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
@@ -651,9 +649,7 @@ export default function Home() {
           />
           <p className="leading-relaxed">
             Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
-            taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman
-            taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid
-            fanny pack vaporware.
+           
           </p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4" />
           <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
@@ -676,9 +672,7 @@ export default function Home() {
       </h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
         Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-        gentrify, subway tile poke farm-to-table. Franzen you probably haven't
-        heard of them man bun deep jianbing selfies heirloom prism food truck
-        ugh squid celiac humblebrag.
+        
       </p>
     </div>
     <div className="flex flex-wrap -m-4 text-center">
